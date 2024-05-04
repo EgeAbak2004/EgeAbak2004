@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Github%20Banner.jpg)
+![MasterHead](https://hypernet.com.tr/dimg/icerik/293732243425900284632.png)
 <h1 align="center">Hi 👋, I'm EgeAbak</h1>
 <h3 align="center">game developer and fullstack developer Tr Oyun Geliştiricisi ve fullstack yazılımcısı</h3>
 
