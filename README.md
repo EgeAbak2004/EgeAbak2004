@@ -1,4 +1,4 @@
-![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4-yR1wkAFLYSJSqY4WQivjunzVTr2rtrJcHp-KBTvniHVuIMTsEZs4JohmXOldy8y8pi98F6qwnsQimzzKYBrCLVohnh_th1g1t_MNvzl5ILZ6KQPxPPIAtPBbKSsQFosq7MXpn-OYEYlnUMh6OW9rh8ULOuerCS2sGiYWmwMRSXJ-Hp0H4-WA2WVyvo/s320/Ads%C4%B1z%20tasar%C4%B1m%20(63).png)
+![MasterHead]([https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4-yR1wkAFLYSJSqY4WQivjunzVTr2rtrJcHp-KBTvniHVuIMTsEZs4JohmXOldy8y8pi98F6qwnsQimzzKYBrCLVohnh_th1g1t_MNvzl5ILZ6KQPxPPIAtPBbKSsQFosq7MXpn-OYEYlnUMh6OW9rh8ULOuerCS2sGiYWmwMRSXJ-Hp0H4-WA2WVyvo/s320/Ads%C4%B1z%20tasar%C4%B1m%20(63).png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRZy3S7NxzPnDHIXeopwXGikw-aDFRNBaYC-G21MdwcQsWTMuvZxCPuzcJs3xX8w5UTOkBwANQd6wJN9LIx-A3CZ6oXZynilLm6yPbVTCoO2M9B-i46CQP_-VdDCVs4dSsx11hx5_SP90-BHvT44Y1kXlkrjoxJf_JHQs1c3PkGDQ8Q2K3KD_PTv6jG8k/s320/Ads%C4%B1z%20tasar%C4%B1m%20(64).png))
 <h1 align="center">Hi 👋, I'm EgeAbak</h1>
 <h3 align="center">game developer and fullstack developer Tr Oyun Geliştiricisi ve fullstack yazılımcısı</h3>
 
