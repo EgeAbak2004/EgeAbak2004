@@ -1,4 +1,4 @@
-![MasterHead](https://hypernet.com.tr/dimg/icerik/293732243425900284632.png)
+![MasterHead](https://drive.google.com/file/d/1zprdguNNea8irpcNk3lK8ReRzwRG8FYP/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm EgeAbak</h1>
 <h3 align="center">game developer and fullstack developer Tr Oyun Geliştiricisi ve fullstack yazılımcısı</h3>
 
